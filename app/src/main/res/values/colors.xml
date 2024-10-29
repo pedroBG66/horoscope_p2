@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <palette>
+        <color name='My-Color-Theme-1' rgb='002001' r='0' g='32' b='1' />
+        <color name='My-Color-Theme-2' rgb='DBF77E' r='219' g='247' b='126' />
+        <color name='My-Color-Theme-3' rgb='7364F2' r='115' g='100' b='242' />
+        <color name='My-Color-Theme-4' rgb='E2E2E2' r='226' g='226' b='226' />
+    </palette>
 </resources>
